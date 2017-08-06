@@ -1,0 +1,28 @@
+{
+  "name": "purple-mod-b",
+  "version": "1.0.0",
+  "description": "some checks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/purple"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wix/purple-mod-b.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wix/purple-mod-b/issues"
+  },
+  "homepage": "https://github.com/wix/purple-mod-b#readme",
+  "dependencies": {
+    "purple-engine": "^1.0.2",
+    "purple-lib-q": "^2.0.0"
+  },
+  "purple": {
+    "modules": [
+      "purple-mod-b"
+    ]
+  }
+}
