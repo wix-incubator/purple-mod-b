@@ -18,7 +18,8 @@
   "homepage": "https://github.com/wix/purple-mod-b#readme",
   "dependencies": {
     "purple-engine": "^1.0.2",
-    "purple-lib-q": "^2.0.0"
+    "purple-lib-q": "^2.0.0",
+    "purple-lib-r": "^1.0.3"
   },
   "purple": {
     "modules": [
